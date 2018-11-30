@@ -6,12 +6,35 @@ package com.myspace.leather_bags;
 
 public class Product implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public Product() {
-    }
+	@org.kie.api.definition.type.Label(value = "Name")
+	private java.lang.String name;
+	@org.kie.api.definition.type.Label(value = "Product Code")
+	private java.lang.String code;
 
+	public Product() {
+	}
 
+	public java.lang.String getName() {
+		return this.name;
+	}
 
+	public void setName(java.lang.String name) {
+		this.name = name;
+	}
+
+	public java.lang.String getCode() {
+		return this.code;
+	}
+
+	public void setCode(java.lang.String code) {
+		this.code = code;
+	}
+
+	public Product(java.lang.String name, java.lang.String code) {
+		this.name = name;
+		this.code = code;
+	}
 
 }
