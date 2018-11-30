@@ -1,0 +1,1 @@
+{"id":"ba6f566f-f6b7-4c65-885e-3e57cd328f66","name":"cut-taskform.frm","model":{"taskName":"cut","processId":"com.myspace.leather_bags.fabrication-process","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
