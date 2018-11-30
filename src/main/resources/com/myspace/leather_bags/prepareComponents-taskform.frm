@@ -1,0 +1,1 @@
+{"id":"cd295cf8-15d8-4ac1-822a-76461fd6cb44","name":"prepareComponents-taskform.frm","model":{"taskName":"prepareComponents","processId":"com.myspace.leather_bags.fabrication-process","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
